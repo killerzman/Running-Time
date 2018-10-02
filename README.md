@@ -1,5 +1,5 @@
 # Running Time
-An endless runner game made in less than 24 hours. Sent to Ubisoft for an internship opportunity (didn't do it, surprisingly).
+An endless runner game made in less than 24 hours. Sent to Ubisoft for an internship opportunity.
 
 # Screenshots
 
